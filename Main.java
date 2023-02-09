@@ -4,6 +4,10 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        main(){
+        //code
+        //code
+}
 
         /**
         int cp;
@@ -26,6 +30,9 @@ public class Main {
             System.out.println("no profit no loss");
         }
        **/
+       pw(){
+        System.out.print("Hellooooooo")
+       }
         double num1;
         double num2;
         double ans;
